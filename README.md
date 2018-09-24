@@ -53,7 +53,7 @@ If you consider some things could be improved or you know another simpler, easie
 
 ## Contributing
 
-1. Fork it (<https://github.com/mbelchin/kubernetes-fluent-bit-logglyfork>)
+1. Fork it (<https://github.com/mbelchin/kubernetes-fluent-bit-loggly/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am '<type>(scope): add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
