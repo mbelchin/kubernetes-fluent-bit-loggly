@@ -25,7 +25,6 @@ $ kubectl create -f fluent-bit-secrets-loggly.yaml
 $ kubectl create -f fluent-bit-configmap-loggly.yaml
 
 $ kubectl create -f fluent-bit-ds-loggly.yaml
-
 ```
 
 ## Ejemplo de uso
@@ -34,13 +33,13 @@ _Para obtener una información más detallada acerca de este paquete, por favor,
 
 ## Autor
 
-[Moisés Belchín](https://moisesbm.wordpress.com)
-[@moises_b_m](https://twitter.com/moises_b_m)
-[https://github.com/mbelchin/](https://github.com/mbelchin/)
+[Moisés Belchín](https://moisesbm.wordpress.com)  
+[@moises_b_m](https://twitter.com/moises_b_m)  
+[https://github.com/mbelchin/](https://github.com/mbelchin/)  
 
 Distribuido bajo lincencia MIT. Echa un vistazo a ``LICENSE`` para más información.
 
-## Documentation## Documentación
+## Documentación
 
 Para obtener una información más detallada acerca de este paquete, por favor, dirígete a :
 [https://moisesbm.wordpress.com/2018/08/25/kubernetes-with-fluent-bit-to-send-logs-to-loggly/](https://moisesbm.wordpress.com/2018/08/25/kubernetes-with-fluent-bit-to-send-logs-to-loggly/)
@@ -53,7 +52,7 @@ Si consideras que algunas cosas podrían mejorarse o si conoces alguna otra herr
 
 ## Contribuir
 
-1. Haz un fork (<https://github.com/mbelchin/kubernetes-fluent-bit-logglyfork>)
+1. Haz un fork (<https://github.com/mbelchin/kubernetes-fluent-bit-loggly/fork>)
 2. Crea una nueva rama (`git checkout -b feature/fooBar`)
 3. Haz un commit de tus cambios (`git commit -am '<type>(scope): add some fooBar'`)
 4. Haz push de tu rama (`git push origin feature/fooBar`)

@@ -25,7 +25,6 @@ $ kubectl create -f fluent-bit-secrets-loggly.yaml
 $ kubectl create -f fluent-bit-configmap-loggly.yaml
 
 $ kubectl create -f fluent-bit-ds-loggly.yaml
-
 ```
 
 ## Usage example
