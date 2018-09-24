@@ -5,7 +5,7 @@
 ![GitHub release](https://img.shields.io/github/release/mbelchin/kubernetes-fluent-bit-loggly.svg)
 
 
-[![Twitter](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmbelchin%2Fkubernetes-fluent-bit-loggly&hashtags=git,hooks,developers,commit,format)
+[![Twitter](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmbelchin%2Fkubernetes-fluent-bit-loggly&hashtags=kubernetes,fluentbit,loggly,daemontset,serviceaccount,configmap,secrets)
 
 *Read this in other languages: [English](README.md), [Español](README.es.md).*
 
